@@ -1,5 +1,5 @@
   这个Python脚本的功能是创建一个Windows快捷键大全的海报图片，具有以下特点：
-  ![效果图]([/assets/img/philly-magic-garden.jpg](https://github.com/huanyu-a/generate_shortcut_poster/blob/main/output/windows_shortcuts_poster_final.png) "效果图")
+  ![效果图](https://github.com/huanyu-a/generate_shortcut_poster/blob/main/output/windows_shortcuts_poster_final.png "效果图")
 
   🎨 脚本功能概览
 
